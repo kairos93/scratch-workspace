@@ -8,7 +8,7 @@ mod tests {
 
     #[test]
     fn it_works() {
-        let result = add(5, 5);
-        assert_eq!(result, 10);
+        let result = add(99, 1);
+        assert_eq!(result, 100);
     }
 }
