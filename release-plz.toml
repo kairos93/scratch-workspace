@@ -1,5 +1,5 @@
 [workspace]
-git_release_enable = true
+git_release_enable = false
 dependencies_update = false # TODO: re-enable when `cargo update` works in this project
 pr_per_package = true
 
