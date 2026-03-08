@@ -11,4 +11,10 @@ mod tests {
         let result = add(2, 2);
         assert_eq!(result, 4);
     }
+
+    #[test]
+    fn it_works_again() {
+        let result = add(5, 5);
+        assert_eq!(result, 10);
+    }
 }
