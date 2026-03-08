@@ -1,5 +1,6 @@
 [workspace]
 dependencies_update = false # TODO: re-enable when `cargo update` works in this project
+pr_per_package = true
 publish = false
 
 git_release_body = """
